@@ -1,9 +1,15 @@
-# Your Project's Title...
-Your project's description...
+# Healthspring EDS Demo (for the Experience Modernization Agent)
+
+An Edge Delivery Services project scaffolded as a **target for the Experience Modernization Agent (EMA)**.
+EMA will import content and design from https://www.healthspring.com/ into this project live during the demo.
+Content source: **Document Authoring (da.live)**.
+
+👉 **Setup and demo runbook: [EMA-SETUP.md](EMA-SETUP.md)**
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--healthspring-demo--nkettler-adobe.aem.page/
+- Live: https://main--healthspring-demo--nkettler-adobe.aem.live/
+- Content (DA): https://da.live/#/nkettler-adobe/healthspring-demo
 
 ## Documentation
 
